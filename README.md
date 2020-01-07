@@ -8,5 +8,6 @@ The expertise data set are created based on the publically available collection 
 Please put acknowledgement accordingly.  
 
 Contact Person:
-Md. Abdul Kader (kdr2k10@gmail.com) and Kamal Z. Zamli (kamalz@ump.edu.my)
+
+Md. Abdul Kader (kdr2k10@gmail.com) and Kamal Z. Zamli (kamalz@ump.edu.my),
 Universiti Malaysia Pahang, Pahang, Malaysia.
